@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154033680855",
+    "project_id": "fullstackpractice-71166",
+    "storage_bucket": "fullstackpractice-71166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154033680855:android:f92648c776f079737b9b92",
+        "android_client_info": {
+          "package_name": "com.example.full_stack_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAupRfJb0qVbgKBthi1VNAqaip9rt6I9hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
